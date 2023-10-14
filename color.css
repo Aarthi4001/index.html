@@ -1,0 +1,10 @@
+form{
+    border-style: solid;
+    border-radius: 25px;
+    border-left: 20px;
+    border-bottom: 20px;
+}
+
+.buttonꓽhover{
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.795);
+    }
